@@ -1,0 +1,560 @@
+header{
+  background-color: rgb(252, 249, 239);
+  width: 100%;
+  height: 60px;
+}
+
+header h1{
+  padding: 10px 5% 0 20px;
+  margin-top: 0;
+  font-size: 30px;
+  letter-spacing: 4px;
+  float: left;
+}
+
+header ul{
+  padding-top: 20px;
+  font-size :8px;
+  font-weight: 600;
+  list-style: none;
+  margin-top: 0;
+}
+
+header li{
+  float: left;
+  font-size: 15px;
+  color:black;
+  padding-left: 5%;
+}
+
+.top{
+  width: 100%;
+  text-align: center;
+  background-image: url(file:///C:/Users/%E5%B2%A9%E6%9C%AC%E4%B8%80%E8%BC%9D/Desktop/HP/img/LP%20top3-4.jpg);
+  background-size: 100% auto;
+  height: 400px;
+  border-radius: 5px;
+}
+
+.top-theme{
+  text-align:center;
+  font-size :18px;
+  padding-top: 30px;
+  font-weight: 700;
+}
+
+.top-theme p{
+  margin:0 auto;
+  padding: 0 auto;
+}
+
+.title{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom:50px;
+}
+
+.title h1{
+  margin-bottom: 30px;
+  font-size: 40px;
+  letter-spacing: 8px;
+}
+
+.title h2{
+  font-size: 20px;
+
+}
+
+.title-btn{
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.consulting{
+  border: 2px solid black;
+  padding:5px 10px;
+  letter-spacing: 4px;
+  display:inline-block;
+  background-color: rgba(60,167,255,0.8);
+  color:black;
+  border-radius: 10px;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+.entry{
+  border: 2px solid black;
+  display:inline-block;
+  color:black;
+  padding:5px 20px;
+  background-color: rgba(60,167,255,0.8);  
+  margin-bottom: 30px;
+  border-radius: 10px;
+  letter-spacing: 12px;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+body{
+  text-align: center;
+}
+
+.first-contents{
+  width: 90%;
+  margin:50px auto;
+  border-radius: 2px;
+  border: 5px black solid;
+}
+
+.first-content1 h1{
+  padding-top: 15px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+  font-size: 20px;
+  border-bottom: 2px black dotted;
+}
+
+.content1-list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+.content1-list li{
+  flex: auto;
+  width: 48%;
+  color: white;
+  font-size: 90%;
+  font-weight: 600;
+  margin-right: 1%;
+  margin-bottom: 1%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.li1{
+  background-color: rgb(255, 81, 100);
+}
+.li1 img{
+  margin-top: 10px;
+  width: 70%;
+}
+
+.li2{
+  background-color: rgb(81, 220, 255);
+}
+.li2 img{
+  margin-top: 10px;
+  width: 70%;
+}
+
+.li3{
+  background-color: rgb(100, 255, 81);
+}
+.li3 img{
+  margin-top: 10px;
+  width: 70%;
+}
+
+.li4{
+  background-color: rgb(255, 200, 81);
+}
+.li4 img{
+  margin-top: 10px;
+  width: 70%;
+}
+
+.first-content2 h1{
+  padding-top: 15px;
+  padding-bottom: 0;
+  letter-spacing: 2px;
+  font-size: 30px;
+}
+
+.first-content2 h2{
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  letter-spacing: 2px;
+  font-size: 30px;
+}
+
+.first-content2 ul{
+  padding: 23px 0 15px 0;
+  border: 2px black solid;
+  margin: 0 auto;
+  width: 80%;
+}
+.first-content2 li{
+  padding-right: 10px;
+  padding-bottom: 8px;
+  letter-spacing: 4px;
+  list-style: none;
+  font-size: 25px;
+  color: rgb(255, 0, 0);
+  font-weight: 700;
+}
+
+.first-content3{
+  margin: 0 auto;
+  width: 80%;
+}
+
+.first-content3 p{
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.first-content3 h1{
+  font-size: 26px;
+  font-weight: 900;
+  background-color: rgb(249, 255, 142);
+}
+
+
+
+
+
+
+
+
+.second-title{
+  padding-top: 60px;
+  font-size: 30px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  letter-spacing: 5px;
+}
+
+.introduction{
+  border: 2px black solid;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+  background-color: rgb(240,240,240);
+  border-radius: 10px;
+  border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 90%;
+  margin: 30px auto;
+}
+
+.introduction h1{
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.introduction h2{
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+.introduction h3{
+  font-size: 20px;
+  letter-spacing: 14px;
+  margin-bottom: 50px;
+}
+
+.introduction p{
+  margin: 0 auto;
+  width: 80%;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.feature{
+  border: 2px black solid;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.5);
+  background-color: rgb(240,240,240);
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.feature-title h1{
+  font-size: 40px;
+  font-weight: 900;
+  letter-spacing: 5px;
+}
+
+.feature-title h2{
+  color: white;
+  font-size: 35px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  background-color: orange;
+  border: 2px rgba(0, 0, 0, 0.3) solid;
+  border-radius: 5px;
+  width: 80%;
+  margin: 20px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.feature1-title h1{
+  border-top: 2px black dotted;
+  width: 90%;
+  margin: 20px auto;
+  padding-top: 40px;
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.feature1-contents{
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.feature1-contents h1{
+  font-size: 30px;
+  border-bottom: 2px dotted black;
+  padding-bottom: 20px;
+}
+
+.feature1-contents p{
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.feature1-content1{
+  border: 2px solid rgb(255, 145, 0);
+  box-shadow: 3px 3px rgba(255, 145, 0, 0.623);
+  background-color: white;
+  width: 80%;
+  padding:0 20px 20px 20px;
+  border-radius: 5px;
+  margin: 10px 10px 20px 10px;
+  flex: auto;
+}
+
+.feature1-content2{
+  border: 2px solid rgb(255, 145, 0);
+  box-shadow: 3px 3px rgba(255, 145, 0, 0.623);
+  background-color: white;
+  width: 80%;
+  padding:0 20px 20px 20px;
+  border-radius: 5px;
+  margin: 10px 10px;
+  flex: auto;
+}
+
+.feature2-title{
+  padding-top: 60px;
+  font-size: 30px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  letter-spacing: 5px;
+}
+
+.support{
+  border: 2px solid rgb(255, 145, 0);
+  box-shadow: 3px 3px rgba(255, 145, 0, 0.623);
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.support h1{
+  font-size: 35px;
+}
+
+.support h2{
+  font-size: 20px;
+  padding-bottom: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.feature3-title{
+  padding-top: 60px;
+  font-size: 30px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  letter-spacing: 5px;
+}
+
+.counseling{
+  border: 2px solid rgb(255, 145, 0);
+  box-shadow: 3px 3px rgba(255, 145, 0, 0.623);
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.counseling h1{
+  font-size: 30px;
+  text-align: left;
+  margin-left: 20px;
+}
+.counseling h2{
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.application{
+  border: 2px solid black;
+  display:inline-block;
+  color:white;
+  padding:10px 30px;
+  background-color: rgb(0, 212, 18);  
+  margin-bottom: 30px;
+  font-size: 25px;
+  border-radius: 20px;
+  letter-spacing: 5px;
+  font-weight: 600;
+}
+
+
+
+.third-title{
+  padding-top: 60px;
+  font-size: 32px;
+  font-weight: 900;
+  margin-bottom: 30px;
+  letter-spacing: 5px;
+}
+
+.teacher{
+  border: 2px solid rgb(255, 145, 0);
+  box-shadow: 3px 3px rgba(255, 145, 0, 0.623);
+  background-color: white;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.teacher h1{
+  text-align: left;
+  margin-left: 20px;
+  font-size: 40px;
+  color: orange;
+}
+
+.teacher h2{
+  font-size: 20px;
+  width: 60%;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.teacher p{
+  font-size: 16px;
+  text-align: left;
+  padding: 5px 5%;
+  margin: 0 auto;
+  background-color: rgb(240,240,249);
+}
+
+
+
+
+
+
+.fourth-title h1{
+  padding-top: 60px;
+  font-size: 40px;
+  margin-bottom: 30px;
+  letter-spacing: 8px;
+}
+
+.faq-wrapper{
+  padding: 20px;
+  background-color: rgba(231, 231, 231, 0.61);
+}
+
+.faq-list-item {
+  margin:10px 20px;
+  border-bottom:1px solid #ccc;
+  position:relative;
+  cursor:pointer;
+  text-align: left;
+}
+
+.faq-list-item h1 {
+  font-size: 18px;
+}
+
+.faq-list-item span {
+  position:absolute;
+  top:0;
+  right:5px;
+  color:#ccc;
+  font-size:18px;
+}
+
+.answer {
+  font-size: 15px;
+  padding: 4px 0px;
+  margin-bottom: 15px;
+  display:none;
+}
+
+footer{
+  padding-top: 30px;
+  margin-left: 5%;
+  display: flex;
+}
+
+.footer-logo img{
+  width: 200px;
+  height:200px;
+  margin-bottom: 0;
+}
+
+.footer-logo{
+  flex-direction: column;
+}
+
+.e-mail{
+  width: 70%;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.e-mail h1{
+  font-size: 25px;
+  margin-top: 45px;
+  margin-bottom: 0;
+}
+
+.e-mail h2{
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 15px;
+  letter-spacing: 3px;
+}
+
+.header-rec-btn:hover{
+  box-shadow: 3px 3px black;
+}
+
+.entry:hover{
+  box-shadow: 3px 3px black;
+}
+
+.consulting:hover{
+  box-shadow: 3px 3px black;
+}
